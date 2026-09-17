@@ -1,5 +1,9 @@
 title: Prefade
 description: In-ear mixes for every singer
+
+# Every page reads the support address from here, so it changes in one place
+# when prefade.app is registered and support@prefade.app becomes real.
+support_email: simonsaucy12+prefade@gmail.com
 # Custom layout in _layouts/default.html — no external theme, so the brand
 # palette and lockup are used rather than a stock Jekyll skin.
 defaults:

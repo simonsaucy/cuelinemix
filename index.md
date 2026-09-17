@@ -17,4 +17,4 @@ Prefade is not affiliated with Yamaha.
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
 
-Questions: **support@prefade.app**
+Questions: [{{ site.support_email }}](mailto:{{ site.support_email }})

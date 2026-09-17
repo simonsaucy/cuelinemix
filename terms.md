@@ -106,4 +106,4 @@ without regard to its conflict of law provisions.
 
 ## 11. Contact
 
-**support@prefade.app**
+[{{ site.support_email }}](mailto:{{ site.support_email }})

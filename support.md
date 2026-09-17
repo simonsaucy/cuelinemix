@@ -6,9 +6,11 @@ title: Support
 
 ## Getting help
 
-Email **support@prefade.app**. Include your console model and firmware
-version (Settings → Console shows both once you're connected) and it'll be
-answered much faster.
+<p class="actions"><a class="btn" href="mailto:{{ site.support_email }}?subject=Prefade%20support">Email support</a></p>
+
+That opens a message to [{{ site.support_email }}](mailto:{{ site.support_email }}). Include your
+console model and firmware version — **Settings → Console** shows both once
+you're connected, and the app's own **Email us** button fills them in for you.
 
 ## Common things
 

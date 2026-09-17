@@ -71,4 +71,4 @@ the app will be updated and the date at the top of this page will change.
 
 ## Contact
 
-Questions about this policy: **support@prefade.app**
+Questions about this policy: [{{ site.support_email }}](mailto:{{ site.support_email }})
