@@ -13,6 +13,11 @@ singer changes microphones their mix follows them, in everyone's ears.
 Works with Yamaha DM7, DM3, CL, QL, TF and RIVAGE PM consoles.
 Prefade is not affiliated with Yamaha.
 
+<p class="actions"><a class="btn" href="{{ '/alpha' | relative_url }}">Join the alpha</a></p>
+
+Prefade is in testing with a small number of churches before it goes on
+sale. [Ask to join](alpha).
+
 - [Support](support)
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
