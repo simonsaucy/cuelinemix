@@ -4,13 +4,13 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**CueLine Mix** · Last updated 16 September 2026
+**Prefade** · Last updated 16 September 2026
 
 ## The short version
 
-CueLine Mix does not collect your data. There is no analytics, no tracking,
+Prefade does not collect your data. There is no analytics, no tracking,
 no advertising, and no server belonging to us that your information passes
-through. We cannot see your presets, your channel names, your consoles, or
+through. We cannot see your mixes, your channel names, your consoles, or
 who is on your team.
 
 The rest of this page explains where your information actually goes.
@@ -23,12 +23,12 @@ not transmitted anywhere unless you set up sharing.
 
 ## What you may choose to share, and with whom
 
-If you turn on a shared library, your preset files are copied to a location
+If you turn on a shared library, your mix files are copied to a location
 **you choose and control**:
 
 - **A folder on your device** — including one inside Dropbox, iCloud Drive,
   Google Drive or a network share. Whatever service syncs that folder handles
-  it under its own privacy policy. CueLine Mix only reads and writes files.
+  it under its own privacy policy. Prefade only reads and writes files.
 - **Dropbox** — your own Dropbox account, into a folder you name. We never
   see the contents.
 - **GitHub** — your own repository. We never see the contents.
@@ -41,7 +41,7 @@ access is done in that service, not here.
 If you sign in to Dropbox or GitHub, the app stores an access token in your
 device's **Keychain**, the same place your other passwords live. That token
 is sent only to the service that issued it. It is never sent to us, never
-written into a preset file, and never included in anything you share.
+written into a mix file, and never included in anything you share.
 
 Signing out deletes it from your device.
 
@@ -61,7 +61,7 @@ countries; they do not identify you.
 
 ## Children
 
-CueLine Mix is a professional audio tool and is not directed at children. We
+Prefade is a professional audio tool and is not directed at children. We
 do not knowingly collect information from anyone.
 
 ## Changes
@@ -71,4 +71,4 @@ the app will be updated and the date at the top of this page will change.
 
 ## Contact
 
-Questions about this policy: **simon@thecrossinglv.com**
+Questions about this policy: **support@prefade.app**

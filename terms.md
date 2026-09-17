@@ -4,16 +4,19 @@ title: Terms of Use
 
 # Terms of Use
 
-**CueLine Mix** · Last updated 16 September 2026
+**Prefade** · Last updated 16 September 2026
 
-These terms are the agreement between you and The Crossing Las Vegas
-("we", "us") for use of the CueLine Mix application. By using the app you
-accept them.
+These terms are the agreement between you and Simon Saucy ("we", "us") for
+use of the Prefade application. By using the app you accept them.
+
+> **If you trade through a company, replace the name above with the
+> company's legal name before charging anyone.** A licence granted by an
+> individual is a licence from that individual.
 
 ## 1. What you get
 
 We grant you a personal, non-transferable, non-exclusive licence to use
-CueLine Mix on devices you own or control, in line with Apple's Licensed
+Prefade on devices you own or control, in line with Apple's Licensed
 Application End User Licence Agreement, which applies to this app and is
 incorporated here.
 
@@ -35,7 +38,7 @@ is free and does not.
 
 Read this part properly.
 
-CueLine Mix sends commands that change levels, routing and labels on live
+Prefade sends commands that change levels, routing and labels on live
 audio consoles, including feeds to in-ear monitors worn by performers.
 
 **You are responsible for every change that reaches a live system.** The app
@@ -85,9 +88,11 @@ app to interfere with equipment you are not authorised to control.
 
 ## 8. Yamaha
 
-Yamaha, DM7, DM3, CL, QL, TF and Rivage are trademarks of Yamaha
-Corporation. CueLine Mix is not affiliated with, endorsed by, or supported by
-Yamaha. Compatibility is not guaranteed and may change with console firmware.
+Prefade works with Yamaha DM7, DM3, CL, QL, TF and RIVAGE PM consoles.
+
+Yamaha and those console names are trademarks of Yamaha Corporation. Prefade
+is not affiliated with, endorsed by, or supported by Yamaha. Compatibility is
+not guaranteed and may change with console firmware.
 
 ## 9. Ending this agreement
 
@@ -101,4 +106,4 @@ without regard to its conflict of law provisions.
 
 ## 11. Contact
 
-**simon@thecrossinglv.com**
+**support@prefade.app**

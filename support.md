@@ -2,11 +2,11 @@
 title: Support
 ---
 
-# CueLine Mix Support
+# Prefade support
 
 ## Getting help
 
-Email **simon@thecrossinglv.com**. Include your console model and firmware
+Email **support@prefade.app**. Include your console model and firmware
 version (Settings → Console shows both once you're connected) and it'll be
 answered much faster.
 
@@ -27,9 +27,9 @@ without a subscription.
 - On iPhone and iPad, the app needs Local Network permission. Check
   Settings → Privacy & Security → Local Network.
 
-### A preset recalled the wrong levels to the wrong channel
+### A mix recalled the wrong levels to the wrong channel
 
-Check **Performers**. Presets store levels against people, not channel
+Check **Performers**. Mixes store levels against people, not channel
 numbers, so the app needs to know who is on which input tonight. If someone
 isn't assigned, their sends are skipped — the recall preview says so before
 anything is written.
@@ -40,7 +40,7 @@ Every recall can be undone from the sheet that performed it, until you close
 it. Undo restores the values read before the write, so it costs no extra time
 on the console.
 
-### My team can't see my presets
+### My team can't see my mixes
 
 Everyone needs to point at the same library. **Settings → Shared library**
 shows where yours is. With Dropbox, each person signs in with their own
@@ -55,8 +55,8 @@ again.
 
 ## Requirements
 
-- A Yamaha console speaking Remote Control Protocol — developed against DM7,
-  and the app measures whatever desk it connects to
+- A Yamaha DM7, DM3, CL, QL, TF or RIVAGE PM console. Prefade measures
+  whatever console it connects to rather than assuming a model
 - macOS or iPadOS
 - The console reachable on your local network
 
