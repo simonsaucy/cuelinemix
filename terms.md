@@ -4,20 +4,16 @@ title: Terms of Use
 
 # Terms of Use
 
-**Prefade** · Last updated 16 September 2026
+**Prefade** · Last updated September 16, 2026
 
 These terms are the agreement between you and Simon Saucy ("we", "us") for
 use of the Prefade application. By using the app you accept them.
 
-> **If you trade through a company, replace the name above with the
-> company's legal name before charging anyone.** A licence granted by an
-> individual is a licence from that individual.
-
 ## 1. What you get
 
-We grant you a personal, non-transferable, non-exclusive licence to use
+We grant you a personal, non-transferable, non-exclusive license to use
 Prefade on devices you own or control, in line with Apple's Licensed
-Application End User Licence Agreement, which applies to this app and is
+Application End User License Agreement, which applies to this app and is
 incorporated here.
 
 ## 2. Subscriptions
@@ -25,7 +21,7 @@ incorporated here.
 Connecting to a mixing console requires a paid subscription. The demo console
 is free and does not.
 
-- Subscriptions renew automatically until cancelled.
+- Subscriptions renew automatically until canceled.
 - Payment is charged to your Apple ID at confirmation of purchase.
 - Renewal is charged within 24 hours of the end of the current period unless
   auto-renewal is turned off beforehand.
@@ -96,7 +92,7 @@ not guaranteed and may change with console firmware.
 
 ## 9. Ending this agreement
 
-You may stop using the app at any time. We may suspend or end your licence if
+You may stop using the app at any time. We may suspend or end your license if
 you breach these terms. Sections 4, 5, 6 and 8 survive termination.
 
 ## 10. Governing law

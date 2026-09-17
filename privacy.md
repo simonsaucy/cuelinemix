@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Prefade** · Last updated 16 September 2026
+**Prefade** · Last updated September 16, 2026
 
 ## The short version
 
