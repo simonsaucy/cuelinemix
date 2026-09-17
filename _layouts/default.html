@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page.title }} · Prefade</title>
+<meta name="description" content="{{ site.description }}">
+
+<link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="alternate icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon-180.png' | relative_url }}">
+
+<meta property="og:title" content="{{ page.title }} · Prefade">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:image" content="{{ '/assets/social-card.png' | absolute_url }}">
+<meta name="twitter:card" content="summary">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    /* Brand palette */
+    --midnight:#17213F; --azure:#0070F3; --dusk:#34457A; --night:#080B16;
+    --ink:#17213F; --muted:#5A6484; --rule:#E3E6EE; --paper:#fff; --wash:#F7F8FB;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#EDEFF5; --muted:#9AA3BE; --rule:#232B45; --paper:#0E1424; --wash:#141B30; }
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font:16px/1.65 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  /* Midnight band, per the icon gradient */
+  header.band{
+    background:linear-gradient(180deg,var(--dusk) 0%,var(--midnight) 55%,var(--night) 100%);
+    padding:28px 24px calc(28px + env(safe-area-inset-top,0px));
+  }
+  header.band .inner{max-width:760px;margin:0 auto;display:flex;align-items:center;gap:14px}
+  header.band img{height:30px;width:auto;display:block}
+  header.band .tag{
+    margin-left:auto;color:rgba(255,255,255,.72);font-size:13px;
+    font-family:Outfit,-apple-system,sans-serif;font-weight:500;
+  }
+  @media (max-width:560px){ header.band .tag{display:none} }
+
+  main{max-width:760px;margin:0 auto;padding:40px 24px 64px}
+  h1,h2,h3{font-family:Outfit,-apple-system,BlinkMacSystemFont,sans-serif;font-weight:600;letter-spacing:-.012em;line-height:1.25}
+  h1{font-size:34px;margin:0 0 6px}
+  h2{font-size:22px;margin:40px 0 10px;padding-top:20px;border-top:1px solid var(--rule)}
+  h3{font-size:17px;margin:26px 0 6px}
+  h1+p{color:var(--muted)}
+  a{color:var(--azure);text-decoration:none}
+  a:hover{text-decoration:underline}
+  strong{font-weight:600}
+  code{background:var(--wash);padding:2px 6px;border-radius:5px;font-size:.9em;
+       font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+  blockquote{
+    margin:20px 0;padding:14px 18px;background:var(--wash);
+    border-left:3px solid var(--azure);border-radius:0 8px 8px 0;color:var(--ink);
+  }
+  blockquote p{margin:0}
+  table{border-collapse:collapse;width:100%;margin:18px 0;display:block;overflow-x:auto}
+  th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);font-size:15px}
+  th{font-weight:600;color:var(--muted);font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+  hr{border:0;border-top:1px solid var(--rule);margin:36px 0}
+  img{max-width:100%}
+
+  footer{border-top:1px solid var(--rule);margin-top:56px;padding:26px 24px 40px;color:var(--muted);font-size:14px}
+  footer .inner{max-width:760px;margin:0 auto;display:flex;gap:18px;flex-wrap:wrap;align-items:center}
+  footer .spacer{margin-left:auto}
+</style>
+</head>
+<body>
+  <header class="band">
+    <div class="inner">
+      <a href="{{ '/' | relative_url }}"><img src="{{ '/assets/lockup-ondark.svg' | relative_url }}" alt="Prefade"></a>
+      <span class="tag">In-ear mixes for every singer</span>
+    </div>
+  </header>
+
+  <main>{{ content }}</main>
+
+  <footer>
+    <div class="inner">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/support' | relative_url }}">Support</a>
+      <a href="{{ '/privacy' | relative_url }}">Privacy</a>
+      <a href="{{ '/terms' | relative_url }}">Terms</a>
+      <span class="spacer">Prefade is not affiliated with Yamaha.</span>
+    </div>
+  </footer>
+</body>
+</html>
